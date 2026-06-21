@@ -1,0 +1,32 @@
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# PHP / Web Server logs & temp files
+error_log
+php_errors.log
+*.log
+
+# Sensitive Database / Environment configurations
+.env
+.env.local
+.env.*.local
+config.local.php
+
+# Package manager folders (if added in the future)
+vendor/
+node_modules/
